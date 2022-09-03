@@ -17,6 +17,8 @@ public class PizzaParty{
   * The main method takes inputs from the terminal and does several calculations
   * to figure out the cost of the pizza deliveries on the three days. 
   */
+  //Second commit
+  //hello world
   public static void main(String args[]){
     Scanner scnr = new Scanner(System.in);
     int people, numPizza;
